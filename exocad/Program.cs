@@ -72,7 +72,8 @@
                     Text2 += Text[i];
                     i++;
                 }
-                Text2 = FindWords(ref map, Text2);
+                //unfortunately I did not understand if words with numbers in "" are allowed, wenn not, than we dont need "public static string FindWords(ref Dictionary<int, List<string>> map, string Text)"
+                //Text2 = FindWords(ref map, Text2);
 
                 PushString(ref map, ref Text2);
             }
@@ -96,7 +97,8 @@
     }
     public static void Print(Dictionary<int, List<string>> map) 
     {
-        foreach(var item in map)
+        Console.WriteLine($"this text has {map.Count} words");
+        foreach (var item in map)
         {
             if (item.Key > 0)
             {
