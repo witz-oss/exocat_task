@@ -97,7 +97,12 @@
     }
     public static void Print(Dictionary<int, List<string>> map) 
     {
-        Console.WriteLine($"this text has {map.Count} words");
+        int count = 0;
+        foreach (var item in map)
+        {
+            count += item.Key;
+        }
+        Console.WriteLine($"this text has {count} words");
         foreach (var item in map)
         {
             if (item.Key > 0)
