@@ -120,7 +120,7 @@
     static void Main(string[] args)
     {
         Dictionary<int, List<string>> map = new Dictionary<int, List<string>> ();
-        Console.WriteLine("Input Text: ");
+        Console.Write("Input Text: ");
         string Text = Console.ReadLine() ?? string.Empty;
         Aufgabe_Exocad(ref map, Text);
         map = map.OrderBy(key => key.Key).ToDictionary(key => key.Key, value => value.Value) ;
