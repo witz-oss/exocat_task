@@ -1,0 +1,15 @@
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\bin\Debug\net6.0\exocad.exe
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\bin\Debug\net6.0\exocad.deps.json
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\bin\Debug\net6.0\exocad.runtimeconfig.json
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\bin\Debug\net6.0\exocad.dll
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\bin\Debug\net6.0\exocad.pdb
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.csproj.AssemblyReference.cache
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.AssemblyInfoInputs.cache
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.AssemblyInfo.cs
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.csproj.CoreCompileInputs.cache
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.dll
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\refint\exocad.dll
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.pdb
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\exocad.genruntimeconfig.cache
+C:\Users\RostyslavLugovyy\source\repos\exocad\exocad\obj\Debug\net6.0\ref\exocad.dll
